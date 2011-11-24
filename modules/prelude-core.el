@@ -327,7 +327,6 @@ there's a region, all lines that region covers will be duplicated."
   "Default coding hook, useful with any programming language."
   (flyspell-prog-mode)
   (prelude-local-comment-auto-fill)
-  (prelude-turn-on-whitespace)
   (prelude-turn-on-abbrev)
   (prelude-add-watchwords))
 
