@@ -23,3 +23,6 @@
 (global-set-key (kbd "M-o") (make-inserter #xf6))
 (global-set-key (kbd "M-O") (make-inserter #xd6))
 (global-set-key (kbd "M-i") (make-inserter #xdf))
+
+;; VB
+(require 'visual-basic-mode)
