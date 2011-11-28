@@ -5,9 +5,6 @@
 
 (require 'solarized-dark-theme)
 
-(setq mac-command-modifier 'meta)
-(setq mac-option-modifier nil)
-
 (require 'outlookedit)
 
 ;; Umlaute
